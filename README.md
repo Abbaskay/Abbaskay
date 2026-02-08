@@ -1,6 +1,6 @@
 Abbas | AI & Full-Stack Developer
 
-I build AI-powered applications, data-driven dashboards, and production-ready web platforms. My work focuses on machine learning, healthcare AI, and interactive data visualization. I enjoy designing systems that combine strong backend engineering with modern user interfaces to solve real-world problems.
+I build AI-powered applications, data-driven dashboards, and production-ready web platforms. My work focuses on machine learning, healthcare AI, and interactive data visualization. I design systems that combine strong backend engineering with modern user interfaces to solve real-world problems.
 
 Featured Projects
 Medical AI platform for heart and diabetes risk prediction using machine learning
@@ -18,6 +18,5 @@ Frontend: Tailwind CSS, Leaflet
 Tools: Git, Docker, REST APIs
 
 Interests
-AI in healthcare, data visualization, automation systems, ML engineering, and scalable SaaS products. 
-
+AI in healthcare, data visualization, automation systems, ML engineering, and scalable SaaS products.
 I am actively building real-world AI applications and open to collaborating on impactful technical projects.
