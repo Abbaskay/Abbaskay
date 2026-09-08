@@ -3,10 +3,10 @@
 AI & full-stack developer building production-grade web platforms, multi-agent
 systems, and healthcare ML tools — then shipping them, not just prototyping them.
 
-- 🔭 Currently building **CollabDocs**, a real-time collaborative document editor
-- 🧠 Focused on multi-agent architectures, healthcare AI, and clean system design
-- 🌐 Two live portfolio sites: [Engineering work](https://abzd-portfolio.vercel.app) · [Freelance / client work](https://abbas-freelance.vercel.app)
-- 📫 Reach me at [muhdabbas2201@gmail.com](mailto:muhdabbas2201@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammad-abbas-b91348251/)
+- Currently building **CollabDocs**, a real-time collaborative document editor
+- Focused on multi-agent architectures, healthcare AI, and clean system design
+- Two live portfolio sites: [Engineering work](https://abzd-portfolio.vercel.app) · [Freelance / client work](https://abbas-freelance.vercel.app)
+- Reach me at [muhdabbas2201@gmail.com](mailto:muhdabbas2201@gmail.com) · [LinkedIn](https://www.linkedin.com/in/mohammad-abbas-b91348251/)
 
 ---
 
